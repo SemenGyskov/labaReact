@@ -37,7 +37,28 @@
   }
 }
 .btn{
-  border-radius: 15px;
-  background-color: rgb(255, 0, 0);
-  border-color: rgb(255, 0, 0);
+  border-radius: 50%;
+  height: 50px;
+  width: 60px;
+  background: rgb(196, 195, 195);
+  border: 0;
+  margin-left: 250px;
+  margin-top: 15px;
+}
+.inp{
+  border-radius: 30px 30px 30px 30px;
+  height: 40px;
+  width: 400px;
+}
+.titles{
+  color: gray;
+  font-size: 80px;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
 }
